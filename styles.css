@@ -20,4 +20,5 @@ body {
     margin-right: auto;
     width: 268.359px;
     height: 69.025px;
+    overflow: visible;
 }
